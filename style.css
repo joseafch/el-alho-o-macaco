@@ -1,0 +1,89 @@
+
+.boxmadre{
+    display: inline-block;
+width: 65%;
+}
+
+.title{
+    display:inline-block;
+    width: 100%;
+    /* height: 150px */
+
+}
+.imagen{
+    /* display: inline-block; */
+    height: 200px;
+    float:left;
+
+
+}
+.parrafo1{
+display: inline-block;
+width: 50%;
+}
+.formulario1{ 
+    width: 40%;
+    height: 100px;
+    /* float: left; */
+    /* background-color: yellowgreen; */
+   } 
+.box2{
+    width: 60%;
+    height: 150px;
+    /* background-color: blue; */
+    background-color: yellowgreen;
+   }
+   .lista1{
+    /* display:inline-block; */
+    width:50%;
+    float: left;
+   }
+   .lista2{
+    /* display: inline-block; */
+    width: 50%;
+    float: right;
+  
+   }
+   .boton{
+    /* display:inline-block; */
+    /* width: 100px; */
+    width: 20%;
+    float: left;
+   }
+   button{
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+     color: gray;
+    background-color: white;
+    border:solid gray
+   }
+   .chuleta{
+    /* display: inline-block; */
+    /* width: 20px; */
+    float: left;
+    width: 20%;
+   }
+   .parrafo2{
+    /* display: inline-block; */
+    /* width: 200px; */
+    float: left;
+    width: 60%;
+   }
+   .texto1{
+    display: block;
+    width:50%;
+    height: 100px;
+    /* background-color: blue; */
+  
+   }
+   .boxmenor{
+    width: 50%;
+    height: 100px;
+    /* background-color: blue; */
+   }
+   .datos{
+    width: 100%;
+    /* height: 50px; */
+    /* background-color: yellowgreen; */
+   }
