@@ -31,7 +31,7 @@ width: 50%;
     width: 60%;
     height: 150px;
     /* background-color: blue; */
-    background-color: yellowgreen;
+    /* background-color: yellowgreen; */
    }
    .lista1{
     /* display:inline-block; */
@@ -47,7 +47,7 @@ width: 50%;
    .boton{
     /* display:inline-block; */
     /* width: 100px; */
-    width: 20%;
+    width: 36%;
     float: left;
    }
    button{
@@ -62,13 +62,13 @@ width: 50%;
     /* display: inline-block; */
     /* width: 20px; */
     float: left;
-    width: 20%;
+    width: 10%;
    }
    .parrafo2{
     /* display: inline-block; */
     /* width: 200px; */
     float: left;
-    width: 60%;
+    width: 50%;
    }
    .texto1{
     display: block;
