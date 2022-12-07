@@ -19,17 +19,17 @@ width: 65%;
 }
 .parrafo1{
 display: inline-block;
-width: 50%;
+width: 100%;
 }
 .formulario1{ 
-    width: 40%;
-    height: 100px;
+    width: 100%;
+    /* height: 100px; */
     /* float: left; */
     /* background-color: yellowgreen; */
    } 
 .box2{
-    width: 60%;
-    height: 150px;
+    width: 100%;
+    height: 200px;
     /* background-color: blue; */
     /* background-color: yellowgreen; */
    }
@@ -47,7 +47,7 @@ width: 50%;
    .boton{
     /* display:inline-block; */
     /* width: 100px; */
-    width: 36%;
+    /* width: 36%; */
     float: left;
    }
    button{
@@ -62,28 +62,39 @@ width: 50%;
     /* display: inline-block; */
     /* width: 20px; */
     float: left;
-    width: 10%;
+    /* width: 10%; */
    }
-   .parrafo2{
+   /* .parrafo2{ */
     /* display: inline-block; */
     /* width: 200px; */
-    float: left;
-    width: 50%;
-   }
+    /* float: left; */
+    /* width: 50%; */
+   /* } */
    .texto1{
     display: block;
-    width:50%;
+    width:100%;
     height: 100px;
     /* background-color: blue; */
   
    }
    .boxmenor{
-    width: 50%;
+    width: 100%;
     height: 100px;
     /* background-color: blue; */
    }
    .datos{
     width: 100%;
+    padding: 10px;
     /* height: 50px; */
     /* background-color: yellowgreen; */
+   }
+   .styles-list{
+/* list-style:none; */
+
+   }
+   .parrafo-lista{
+    font-size: 14px;
+   }
+   li::marker{
+    font-size: 40px;
    }
